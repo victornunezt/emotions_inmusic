@@ -1,0 +1,7 @@
+
+
+./essentia_streaming_extractor_music Voice_1.mp3 Voice_1.csv
+./essentia_streaming_extractor_music Voice_2.mp3 Voice_2.csv 
+./essentia_streaming_extractor_music Voice_3.mp3 Voice_3.csv 
+
+[…]
