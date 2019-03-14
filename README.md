@@ -1,9 +1,9 @@
-# emotions_inmusic
+# Emotions_InMusic
 
 These are the files from my bachelor's degree project about Emotions in music:
 *https://zenodo.org/record/1002735/files/TFG_VictorNunezConf.pdf*
 
-# Content
+## Content
 
 - **Emo_database.zip**: Soundtracks collection of different music styles able to transmit different emotional reactions/stimulus, by whom i have extracted 4 different versions: voice, instrumentation, voice + instrumentation and mix.
 - **PsyToolkit_script.txt**: PsyToolkit script used for subjects evaluation.
